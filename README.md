@@ -1,6 +1,8 @@
-
 Symfony Admin Edition
 ========================
+
+**Important** : the current master is known to not work
+please use the branch 2.5 to get a working version
 
 Welcome to the Symfony Admin Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications
